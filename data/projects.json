@@ -86,6 +86,7 @@
       "bin": "mantrachaind",
       "binHome": "/home/mantra/go/bin/mantrachaind",
       "chainID": "mantra-hongbai-1",
+      "delegate": "https://testnet.cryptonode.id/mantrachain/staking/mantravaloper1r4u3pr2c4vcjwehvw6u56t98zducjsy7qzy0z7",
       "denom": "uom",
       "hardware": "4 Cores, 8GB RAM, 200GB of storage (NVME)",
       "installBin": "cd $HOME\nsudo wget -O /usr/lib/libwasmvm.x86_64.so https://github.com/CosmWasm/wasmvm/releases/download/v1.3.1/libwasmvm.x86_64.so\nwget https://github.com/MANTRA-Finance/public/raw/main/mantrachain-hongbai/mantrachaind-linux-amd64.zip\nunzip mantrachaind-linux-amd64.zip\nrm mantrachaind-linux-amd64.zip\nmv mantrachaind $HOME/go/bin",
@@ -99,8 +100,7 @@
       "snapMaxSize": "10",
       "updHeight": "",
       "variable": "MANTRA",
-      "newInstallBin": "",
-      "delegate": "https://testnet.cryptonode.id/mantrachain/staking/mantravaloper1r4u3pr2c4vcjwehvw6u56t98zducjsy7qzy0z7"
+      "newInstallBin": ""
     },
     "side": {
       "bin": "sided",
