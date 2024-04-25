@@ -96,7 +96,7 @@ const services = () => {
 								showIcon
 								className='mt-1 mb-3 lg:mb-6 max-w-fit'
 							/>
-							<span>All ITRocket validator links - </span>
+							<span>All CryptoNodeID validator links - </span>
 							<Link href='/delegate'>https://cryptonode.id/delegate</Link>
 						</div>
 					</div>
