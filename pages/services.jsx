@@ -80,14 +80,14 @@ const services = () => {
 						<div>
 							<Alert
 								message=<span>
-									ITRocket participates in{' '}
+									CryptoNodeID participates in{' '}
 									<span
 										className='inline-block h-5 w-5 align-top mx-1 lg:mt-[2px]'
 										aria-hidden='true'
 										style={{ background: "center / contain url('/testnet/eigenlayer.jpeg')  no-repeat" }}
 									></span>{' '}
 									EigenLayer testnet. Please consider staking to our{' '}
-									<a href={testnetData.eigenlayer.delegate} target='_blank' rel='noopener noreferrer'>
+									<a href={testnetData.crossfi.delegate} target='_blank' rel='noopener noreferrer'>
 										operator
 									</a>{' '}
 									to boost your earnings and support us 🚀
@@ -97,7 +97,7 @@ const services = () => {
 								className='mt-1 mb-3 lg:mb-6 max-w-fit'
 							/>
 							<span>All ITRocket validator links - </span>
-							<Link href='/delegate'>https://itrocket.net/delegate</Link>
+							<Link href='/delegate'>https://cryptonode.id/delegate</Link>
 						</div>
 					</div>
 				</div>
