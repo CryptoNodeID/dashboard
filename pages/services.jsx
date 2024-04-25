@@ -84,9 +84,9 @@ const services = () => {
 									<span
 										className='inline-block h-5 w-5 align-top mx-1 lg:mt-[2px]'
 										aria-hidden='true'
-										style={{ background: "center / contain url('/testnet/eigenlayer.jpeg')  no-repeat" }}
+										style={{ background: "center / contain url('/testnet/crossfi.jpg')  no-repeat" }}
 									></span>{' '}
-									EigenLayer testnet. Please consider staking to our{' '}
+									CrossFi testnet validator grant program. Please consider staking to our{' '}
 									<a href={testnetData.crossfi.delegate} target='_blank' rel='noopener noreferrer'>
 										operator
 									</a>{' '}
