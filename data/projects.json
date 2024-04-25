@@ -106,7 +106,7 @@
       "bin": "evmosd",
       "binHome": "/home/og/go/bin/evmosd",
       "chainID": "zgtendermint_9000-1",
-      "delegate": "",
+      "delegate": "https://testnet.cryptonode.id/crossfi/staking/mxvaloper17rcy08cjnwsagglylmclfx85j8ss9lepvd4jdu",
       "denom": "aevmos",
       "ecosystem": "cosmos",
       "gas": "--gas 500000 --gas-prices 99999aevmos",
